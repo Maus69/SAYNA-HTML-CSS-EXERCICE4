@@ -1,0 +1,101 @@
+@font-face {
+    font-family: 'FarFromHomecoming';
+    src: url('../police/Far-From-Homecoming-Updated.otf');
+}
+
+.header-web{
+    padding: 2% 0%;
+    background-color: #b11313;
+    align-items: center;
+}
+
+.header-web img{
+    margin-right: 2%;
+}
+
+.header-web>div{
+    text-align: center;
+}
+
+.header-web>div a{
+    color: white;
+    padding-left: 5%;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.header-mobile{
+    padding-left: 5%;
+    padding-top: 10%;
+    width: 100%;
+    position: absolute;
+}
+
+main .home{
+    color: white;
+    padding: 25% 0%;
+    text-align: center;
+    background-size: cover;
+    background-image: url(../img/img1.png);
+}
+
+main .home h1{
+    font-size: 4rem;
+    padding-bottom: 10%;
+    font-family: 'FarFromHomecoming';
+}
+
+main .home h3{
+    margin-top: 5%;
+}
+
+.cinema{
+    color: white;
+    background-color: #b11313;
+    padding: 0% 12%;
+}
+
+h2{
+    font-family: 'FarFromHomecoming';
+}
+
+main .personal{
+    color: white;
+    padding: 0% 10%;
+    text-align: justify;
+    background-color: #b11313;
+}
+
+.adversaires{
+    text-align: center;
+    background-color: #b11313;
+    padding-bottom: 7%;
+    padding-top: 2%;
+}
+
+.btnSpider{
+    padding-left: 2% 5%;
+    margin-left: 5%;
+    color: #b11313;
+    border-radius: 15px;
+}
+
+.zero-margin{
+    margin: 0;
+}
+
+.costume{
+    color: white;
+    padding: 25% 0%;
+    text-align: center;
+    background-size: 37.5%;
+    background-repeat: no-repeat;
+    background-color: #114c92;
+    background-image: url(../img/img5.png);
+    background-position: bottom left;
+}
+
+.formulaire{
+    position: relative;
+    top: 50%;
+}
